@@ -1,4 +1,4 @@
-import { Github, Linkedin, Mail, Heart, Instagram, Discord, Tiktok } from 'lucide-react';
+import { Github, Linkedin, Mail, Heart, Instagram, Gamepad2 } from 'lucide-react';
 
 export function Footer() {
   return (
@@ -35,18 +35,11 @@ export function Footer() {
               <Instagram className="size-6" />
             </a>
             <a
-              href="https://www.tiktok.com/@naruhikaru"
-              className="text-gray-400 hover:text-purple-400 transition-colors"
-              aria-label="Tiktok"
-            >
-              <Tiktok className="size-6" />
-            </a>
-            <a
               href="https://discordapp.com/users/967176368372715530"
               className="text-gray-400 hover:text-purple-400 transition-colors"
-              aria-label="Discord"
+              aria-label="gamepad-2"
             >
-              <Discord className="size-6" />
+              <gamepad-2 className="size-6" />
             </a>
           </div>
           
