@@ -34,13 +34,6 @@ export function Footer() {
             >
               <Instagram className="size-6" />
             </a>
-            <a
-              href="https://discordapp.com/users/967176368372715530"
-              className="text-gray-400 hover:text-purple-400 transition-colors"
-              aria-label="gamepad-2"
-            >
-              <gamepad-2 className="size-6" />
-            </a>
           </div>
           
           <div className="text-center">
