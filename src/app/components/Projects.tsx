@@ -7,12 +7,12 @@ import { ImageWithFallback } from '@/app/components/figma/ImageWithFallback';
 export function Projects() {
   const projects = [
     {
-      title: 'E-Commerce Website',
-      description: 'A fully responsive online store with shopping cart functionality, product filtering, and checkout system.',
-      image: 'https://images.unsplash.com/photo-1557821552-17105176677c?w=800&q=80',
-      tags: ['React', 'Tailwind', 'Node.js'],
-      github: '#',
-      demo: '#',
+      title: 'Prayer Schedule Website',
+      description: 'A high-performance React application styled with Tailwind CSS that fetches and displays real-time prayer schedules for Semarang, Indonesia.',
+      image: 'https://ik.imagekit.io/sfknwtw4r/Portofolio/website-jadwal-sholat-semarang.png',
+      tags: ['React', 'Tailwind', 'API'],
+      github: 'https://github.com/adityapramid25/website-jadwalsholatsemarang.git',
+      demo: 'https://jadwal-sholat-semarang.vercel.app',
     },
     {
       title: 'School Management System',
