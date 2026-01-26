@@ -28,22 +28,26 @@ export function Hero() {
         </p>
         
         <div className="flex flex-wrap gap-4 justify-center mb-8">
-          <Button size="lg" className="bg-purple-600 hover:bg-purple-700">
+          <a href="#project">
+            <Button size="lg" className="bg-purple-600 hover:bg-purple-700">
             View My Work
-          </Button>
-          <Button size="lg" variant="outline" className="border-gray-700 hover:bg-gray-800">
+            </Button>
+          </a>
+          <a href="#contact">
+            <Button size="lg" variant="outline" className="border-gray-700 hover:bg-gray-800">
             Contact Me
-          </Button>
+            </Button>
+          </a>
         </div>
         
         <div className="flex gap-6 justify-center">
-          <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors">
+          <a href="https://github.com/adityapramid25" className="text-gray-400 hover:text-purple-400 transition-colors">
             <Github className="size-6" />
           </a>
-          <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors">
+          <a href="https://linkedin.com/in/aditya-pramana-putra" className="text-gray-400 hover:text-purple-400 transition-colors">
             <Linkedin className="size-6" />
           </a>
-          <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors">
+          <a href="mailto:adityapramid25@gmail.com" className="text-gray-400 hover:text-purple-400 transition-colors">
             <Mail className="size-6" />
           </a>
         </div>
