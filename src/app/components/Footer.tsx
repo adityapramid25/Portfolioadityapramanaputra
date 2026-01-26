@@ -1,4 +1,4 @@
-import { Github, Linkedin, Mail, Heart } from 'lucide-react';
+import { Github, Linkedin, Mail, Heart, Instagram, Discord, Tiktok } from 'lucide-react';
 
 export function Footer() {
   return (
@@ -28,25 +28,25 @@ export function Footer() {
               <Mail className="size-6" />
             </a>
             <a
-              href="https://github.com/adityapramid25"
+              href="https://instagram.com/adtzya_p"
               className="text-gray-400 hover:text-purple-400 transition-colors"
-              aria-label="GitHub"
+              aria-label="Instagram"
             >
-              <Github className="size-6" />
+              <Instagram className="size-6" />
             </a>
             <a
-              href="https://linkedin.com/in/aditya-pramana-putra"
+              href="https://www.tiktok.com/@naruhikaru"
               className="text-gray-400 hover:text-purple-400 transition-colors"
-              aria-label="LinkedIn"
+              aria-label="Tiktok"
             >
-              <Linkedin className="size-6" />
+              <Tiktok className="size-6" />
             </a>
             <a
-              href="emailto:adityapramid25@gmail.com"
+              href="https://discordapp.com/users/967176368372715530"
               className="text-gray-400 hover:text-purple-400 transition-colors"
-              aria-label="Email"
+              aria-label="Discord"
             >
-              <Mail className="size-6" />
+              <Discord className="size-6" />
             </a>
           </div>
           
