@@ -1,0 +1,61 @@
+import { Github, Linkedin, Mail } from 'lucide-react';
+import { Button } from '@/app/components/ui/button';
+
+export function Hero() {
+  return (
+    <section className="min-h-screen flex items-center justify-center px-4 relative overflow-hidden">
+      {/* Background gradient effect */}
+      <div className="absolute inset-0 bg-gradient-to-br from-purple-900/20 via-transparent to-blue-900/20 pointer-events-none" />
+      
+      <div className="max-w-4xl mx-auto text-center relative z-10">
+        <div className="mb-6">
+          <span className="inline-block px-4 py-2 bg-purple-500/10 border border-purple-500/20 rounded-full text-purple-400 text-sm mb-6">
+            Web Developer Student
+          </span>
+        </div>
+        
+        <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-white via-purple-200 to-blue-200 bg-clip-text text-transparent">
+          Hello, I'm Aditya Pramana Putra
+        </h1>
+        
+        <p className="text-xl md:text-2xl text-gray-400 mb-4">
+          Vocational High School Student at
+        </p>
+        
+        <p className="text-2xl md:text-3xl text-purple-400 mb-8 font-semibold">
+          SMK N 9 Semarang
+        </p>
+        
+        <p className="text-lg text-gray-300 mb-12 max-w-2xl mx-auto">
+          Passionate about creating beautiful and functional web experiences. 
+          Focused on modern web technologies and clean, maintainable code.
+        </p>
+        
+        <div className="flex flex-wrap gap-4 justify-center mb-8">
+          <Button size="lg" className="bg-purple-600 hover:bg-purple-700">
+            View My Work
+          </Button>
+          <Button size="lg" variant="outline" className="border-gray-700 hover:bg-gray-800">
+            Contact Me
+          </Button>
+        </div>
+        
+        <div className="flex gap-6 justify-center">
+          <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors">
+            <Github className="size-6" />
+          </a>
+          <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors">
+            <Linkedin className="size-6" />
+          </a>
+          <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors">
+            <Mail className="size-6" />
+          </a>
+        </div>
+      </div>
+      
+      {/* Decorative elements */}
+      <div className="absolute top-20 left-10 w-72 h-72 bg-purple-600/10 rounded-full blur-3xl" />
+      <div className="absolute bottom-20 right-10 w-96 h-96 bg-blue-600/10 rounded-full blur-3xl" />
+    </section>
+  );
+}
