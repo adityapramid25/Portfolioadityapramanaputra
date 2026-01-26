@@ -7,21 +7,21 @@ export function Footer() {
         <div className="flex flex-col items-center gap-6">
           <div className="flex gap-6">
             <a
-              href="#"
+              href="https://github.com/adityapramid25"
               className="text-gray-400 hover:text-purple-400 transition-colors"
               aria-label="GitHub"
             >
               <Github className="size-6" />
             </a>
             <a
-              href="#"
+              href="https://linkedin.com/in/aditya-pramana-putra"
               className="text-gray-400 hover:text-purple-400 transition-colors"
               aria-label="LinkedIn"
             >
               <Linkedin className="size-6" />
             </a>
             <a
-              href="#"
+              href="emailto:adityapramid25@gmail.com"
               className="text-gray-400 hover:text-purple-400 transition-colors"
               aria-label="Email"
             >
