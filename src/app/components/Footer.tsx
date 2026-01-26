@@ -27,6 +27,27 @@ export function Footer() {
             >
               <Mail className="size-6" />
             </a>
+            <a
+              href="https://github.com/adityapramid25"
+              className="text-gray-400 hover:text-purple-400 transition-colors"
+              aria-label="GitHub"
+            >
+              <Github className="size-6" />
+            </a>
+            <a
+              href="https://linkedin.com/in/aditya-pramana-putra"
+              className="text-gray-400 hover:text-purple-400 transition-colors"
+              aria-label="LinkedIn"
+            >
+              <Linkedin className="size-6" />
+            </a>
+            <a
+              href="emailto:adityapramid25@gmail.com"
+              className="text-gray-400 hover:text-purple-400 transition-colors"
+              aria-label="Email"
+            >
+              <Mail className="size-6" />
+            </a>
           </div>
           
           <div className="text-center">
