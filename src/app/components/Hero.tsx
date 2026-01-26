@@ -28,7 +28,7 @@ export function Hero() {
         </p>
         
         <div className="flex flex-wrap gap-4 justify-center mb-8">
-          <a href="#project">
+          <a href="#projects">
             <Button size="lg" className="bg-purple-600 hover:bg-purple-700">
             View My Work
             </Button>
