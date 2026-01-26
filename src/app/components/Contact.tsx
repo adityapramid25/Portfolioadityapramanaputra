@@ -16,7 +16,7 @@ export function Contact() {
       icon: Phone,
       label: 'Phone',
       value: '+62 812 2943 8668',
-      href: 'tel:+6281229438668',
+      href: 'wa.me/6281229438668',
     },
     {
       icon: MapPin,
