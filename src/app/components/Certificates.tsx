@@ -13,7 +13,7 @@ export function Certificates() {
       description: 'Comprehensive course covering HTML5, CSS3, and JavaScript fundamentals. Learned responsive design principles and modern web development practices.',
       category: 'Web Development',
       link: '#',
-      image: 'https://images.unsplash.com/photo-1766722906733-609eebf3b63a?w=800&q=80',
+      image: 'https://drive.google.com/file/d/1J2lmW_TCQmDEZ7wagu-lXm65Jux0KD97/view?usp=sharing',
     },
     {
       title: 'React Developer Certification',
