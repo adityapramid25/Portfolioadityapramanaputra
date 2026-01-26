@@ -1,4 +1,4 @@
-import { Github, Linkedin, Mail } from 'lucide-react';
+import { Github, Linkedin, Mail, Instagram } from 'lucide-react';
 import { Button } from '@/app/components/ui/button';
 
 export function Hero() {
@@ -49,6 +49,9 @@ export function Hero() {
           </a>
           <a href="mailto:adityapramid25@gmail.com" className="text-gray-400 hover:text-purple-400 transition-colors">
             <Mail className="size-6" />
+          </a>
+          <a href="https://instagram.com/adtzya_p" className="text-gray-400 hover:text-purple-400 transition-colors">
+            <Instagram className="size-6" />
           </a>
         </div>
       </div>
