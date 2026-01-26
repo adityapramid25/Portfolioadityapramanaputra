@@ -6,18 +6,18 @@ export function Skills() {
       category: 'Frontend Development',
       skills: [
         { name: 'HTML & CSS', level: 90 },
-        { name: 'JavaScript', level: 85 },
-        { name: 'React', level: 80 },
-        { name: 'Tailwind CSS', level: 85 },
+        { name: 'JavaScript', level: 50 },
+        { name: 'React', level: 20 },
+        { name: 'Tailwind CSS', level: 30 },
       ],
     },
     {
       category: 'Backend Development',
       skills: [
-        { name: 'Node.js', level: 75 },
-        { name: 'PHP', level: 70 },
-        { name: 'MySQL', level: 75 },
-        { name: 'REST APIs', level: 80 },
+        { name: 'Node.js', level: 0 },
+        { name: 'PHP', level: 20 },
+        { name: 'MySQL', level: 60 },
+        { name: 'REST APIs', level: 10 },
       ],
     },
     {
