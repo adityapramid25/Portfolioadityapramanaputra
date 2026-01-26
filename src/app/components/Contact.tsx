@@ -9,14 +9,14 @@ export function Contact() {
     {
       icon: Mail,
       label: 'Email',
-      value: 'student@smkn9smg.sch.id',
-      href: 'mailto:student@smkn9smg.sch.id',
+      value: 'adityapramid25@gmail.com',
+      href: 'mailto:adityapramid25@gmail.com',
     },
     {
       icon: Phone,
       label: 'Phone',
-      value: '+62 xxx xxxx xxxx',
-      href: 'tel:+62',
+      value: '+62 812 2943 8668',
+      href: 'tel:+6281229438668',
     },
     {
       icon: MapPin,
