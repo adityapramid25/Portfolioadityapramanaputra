@@ -6,7 +6,7 @@ export function About() {
     {
       icon: GraduationCap,
       title: 'Education',
-      description: 'Currently studying at SMK N 9 Semarang, specializing in software engineering and web development.',
+      description: 'Currently studying at SMK N 9 Semarang and MySkill.id, specializing in software engineering and web development.',
     },
     {
       icon: Code,
