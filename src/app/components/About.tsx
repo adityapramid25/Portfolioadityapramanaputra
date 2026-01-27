@@ -89,11 +89,11 @@ export function About() {
         
         <div className="bg-gradient-to-br from-gray-900/50 to-gray-800/30 border border-gray-800 rounded-2xl p-8 md:p-12">
           <p className="text-lg text-gray-300 leading-relaxed">
-            As a dedicated web development student at SMK N 9 Semarang, I am committed to mastering 
-            the art and science of creating impactful digital experiences. My journey in web development 
-            has equipped me with a strong foundation in both front-end and back-end technologies. 
-            I believe in writing clean, efficient code and staying updated with the latest industry trends 
-            and best practices.
+            As a software engineering student at SMK N 9 Semarang, I am committed to mastering the art and science of 
+            creating impactful digital experiences. I also took an online software engineering class on the MySkill.id 
+            platform to improve my web development skills, which has provided me with a strong foundation in front-end 
+            and back-end technologies. I believe in writing clean and efficient code and stay up-to-date with the latest 
+            industry trends and best practices.
           </p>
         </div>
       </div>
