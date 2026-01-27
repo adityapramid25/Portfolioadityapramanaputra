@@ -30,8 +30,8 @@ export function Certificates() {
       date: 'November 2025',
       description: 'In-depth study of algorithmic thinking, computational thinking, and debugging.',
       category: 'Computer Science',
-      link: 'https://lh3.googleusercontent.com/u/1hyaQSiCim14TaElXGLQdPY_gghx4d4ME',
-      image: 'https://lh3.googleusercontent.com/u/1hyaQSiCim14TaElXGLQdPY_gghx4d4ME',
+      link: 'https://lh3.googleusercontent.com/u//0/d/1hyaQSiCim14TaElXGLQdPY_gghx4d4ME',
+      image: 'https://lh3.googleusercontent.com/u/0/d/1hyaQSiCim14TaElXGLQdPY_gghx4d4ME',
     },
     {
       title: 'Responsive Web Design',
