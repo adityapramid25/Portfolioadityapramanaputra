@@ -43,13 +43,13 @@ export function Certificates() {
       image: 'https://lh3.googleusercontent.com/u/0/d/12qW660wd4H28K48yCOpg2KgBbW7dpf5I',
     },
     {
-      title: 'Backend Development with Node.js',
+      title: 'Basic Web Programming',
       issuer: 'Dicoding Indonesia',
-      date: 'August 2025',
-      description: 'Learned server-side development with Node.js and Express.js, RESTful API design, and database integration with MongoDB.',
+      date: 'January 2026',
+      description: 'create a website based on HTML, CSS, and JavaScript.',
       category: 'Backend',
-      link: '#',
-      image: 'https://images.unsplash.com/photo-1766722906733-609eebf3b63a?w=800&q=80',
+      link: 'https://www.dicoding.com/dicodingassets/coursecertificate/350ae3fc678482aa437ec0c2466e0a0979dbf71f/view',
+      image: 'https://www.dicoding.com/dicodingassets/coursecertificate/350ae3fc678482aa437ec0c2466e0a0979dbf71f/view',
     },
     {
       title: 'MySQL Database Design',
