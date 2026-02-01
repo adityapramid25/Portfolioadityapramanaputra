@@ -48,8 +48,8 @@ export function Certificates() {
       date: 'January 2026',
       description: 'create a website based on HTML, CSS, and JavaScript.',
       category: 'Backend',
-      link: 'https://www.dicoding.com/dicodingassets/coursecertificate/350ae3fc678482aa437ec0c2466e0a0979dbf71f/view',
-      image: 'https://www.dicoding.com/dicodingassets/coursecertificate/350ae3fc678482aa437ec0c2466e0a0979dbf71f/view',
+      link: 'https://lh3.googleusercontent.com/u/0/d/1C64GVBoU__gaVP4iShbbNPHfXittakFE',
+      image: 'https://lh3.googleusercontent.com/u/0/d/1C64GVBoU__gaVP4iShbbNPHfXittakFE',
     },
     {
       title: 'MySQL Database Design',
